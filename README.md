@@ -1,8 +1,9 @@
 ### Hi! I'm Guilherme 👋
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Guilherme Boechat | Front-end in progress | Rio de Janeiro, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-- 🔨 I'm working in personal projects to increase my portfolio
-- 🌱 Learning HTML, CSS, JavaScript and React
+- 🔨 I'm working on personal projects to increase my portfolio
+- 🌱 Learning C, C#.
+- undergraduate in "Sistemas de Informação" | UFF - Universidade Federal Fluminense
 
 <p align=''>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guilhermeboechat&show_icons=false&count_private=true&theme=dark" width="350"></a>
