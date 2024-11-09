@@ -2,7 +2,7 @@
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Guilherme Boechat | Front-end in progress | Rio de Janeiro, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 - 🔨 I'm working on personal projects to increase my portfolio
-- 🌱 Learning C, C#.
+- 🌱 Learning C, C#, React, JavaScript.
 - undergraduate in "Sistemas de Informação" | UFF - Universidade Federal Fluminense
 
 <p align=''>
