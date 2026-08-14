@@ -1,19 +1,24 @@
 ### Hi! I'm Guilherme 👋
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Guilherme Boechat | Front-end in progress | Rio de Janeiro, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Guilherme Boechat | Data Analysis/Science | Rio de Janeiro, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-- 🔨 I'm working on personal projects to increase my portfolio
-- 🌱 Learning C, C#, React, JavaScript.
-- undergraduate in "Sistemas de Informação" | UFF - Universidade Federal Fluminense
+- 📊 Interested in Data Analysis, Data Science and DevOps
+- 🐍 Exploring data through Python, SQL, Power BI and Data Visualization
+- ⚙️ Also working with automation, APIs and DevOps
+- 💻 I am always working on projects, learning new technologies and turning data into useful insights
+- 🎓 Information Systems undergraduate at UFF - Universidade Federal Fluminense
 
-<p align=''>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guilhermeboechat&show_icons=false&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeboechat&layout=compact&theme=dark"</a>
-</p>
+### 🛠️ Some technologies I work with
+
+`Python` `SQL` `Power BI` `Git` `Azure DevOps`
+
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 </div>
   
   ##
